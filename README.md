@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###<div align="center">
+<div align="center">
   <!-- Discord badge -->
   <div>
     <img 
@@ -10,9 +10,8 @@
       height="25" 
       alt="discord logo" 
       style="cursor:pointer;"
-      onclick="toggleDiscordUsername()"
     />
-    <div id="discordUsername" style="display:none; margin-top:5px; font-weight:bold;">
+    <div id="discordUsername" style="margin-top:5px; font-weight:bold;">
       rip_phantom8835
     </div>
   </div>
@@ -29,12 +28,6 @@
   </div>
 </div>
 
-<script>
-function toggleDiscordUsername() {
-  const el = document.getElementById('discordUsername');
-  el.style.display = el.style.display === 'none' ? 'block' : 'none';
-}
-</script>
 
 
 ###
