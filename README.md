@@ -12,7 +12,7 @@
       style="cursor:pointer;"
     />
     <div id="discordUsername" style="margin-top:5px; font-weight:bold;">
-      rip_phantom8835
+      **rip_phantom8835**
     </div>
   </div>
 
