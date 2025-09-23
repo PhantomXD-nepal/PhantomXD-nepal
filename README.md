@@ -70,7 +70,7 @@ I'm Ansu Krishna Rijal from Kathmandu, Nepal.<br><br>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="drizzle logo"  />
+  <img src="https://www.bing.com/ck/a?!&&p=7aadcbb75013f845a49c23175a84b17bc61be1a81a34ecb0a5d01be70a4a83f5JmltdHM9MTc1ODU4NTYwMA&ptn=3&ver=2&hsh=4&fclid=2a8cae3b-db1b-6e9c-0041-b86fda186f99&u=a1L2ltYWdlcy9zZWFyY2g_cT1kcml6emxlJTIwbG9nbyUyMG9ybSZGT1JNPUlRRlJCQSZpZD03QTczNzg2QjI0MkVFOTAyMjZBM0I2NjM4N0Q4MDZEM0MwQkQwREMy" height="40" alt="drizzle logo"  />
   <img width="12" />
 </div>
 
